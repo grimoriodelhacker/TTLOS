@@ -23,9 +23,3 @@ IP OS Detector es una herramienta creada para determinar el sistema operativo de
 ```sh
 pip install scapy
 pip install ipaddress
-
-3. Ejecución del codigo
-```sh
-python ttlOS.py
-
-
