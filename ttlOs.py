@@ -1,4 +1,4 @@
-from scapy.all import IP, ICMP, IPv6, ICMPv6EchoRequest, sr1 # type: ignore
+from scapy.all import IP, ICMP, IPv6, ICMPv6EchoRequest, sr1 
 import ipaddress
 
 def determine_os(ip_address):
