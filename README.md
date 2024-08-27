@@ -21,5 +21,5 @@ IP OS Detector es una herramienta creada para determinar el sistema operativo de
 
 2. Instala las dependencias:
 ```sh
-pip install scapy
-pip install ipaddress
+   pip install scapy
+   pip install ipaddress
